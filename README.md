@@ -15,3 +15,8 @@
 <img width="1920" height="1080" alt="17" src="https://github.com/user-attachments/assets/6a13aaca-b7d8-4084-b0f4-7aeef19b2c06" />
 <img width="1920" height="1080" alt="18" src="https://github.com/user-attachments/assets/bfad7efd-6753-42ea-a439-94d6085311a5" />
 
+## 3	ผลการทดลอง
+ในการประเมินประสิทธิภาพของระบบแนะนำสินค้า งานวิจัยนี้ได้ทำการเปรียบเทียบโมเดลที่พัฒนาขึ้น กับวิธีพื้นฐานแบบ Top-10 Popularity-based Recommendation ซึ่งถูกใช้เป็น Baseline Model โดยแนวทาง Popularity-based Recommendation เป็นวิธีที่แนะนำสินค้าตามความนิยมโดยรวมของระบบ เช่น สินค้าที่มียอดซื้อหรือจำนวน interaction สูงที่สุด โดยไม่พิจารณาพฤติกรรมเฉพาะบุคคลของผู้ใช้
+<img width="1920" height="1080" alt="Final Slide_111_COOPRecSys (1)" src="https://github.com/user-attachments/assets/dd268ddf-df21-41fb-a194-9304abad8ab2" />
+
+
